@@ -2,7 +2,7 @@
  
 ## Project information
 ### 1. This project demonstrates how to use R to quantify potato seeds imaged on a flatbed scanner.  
-   1. Three example half-sib potato seed lots were images.
+   1. Three example half-sib potato seed lots were imaged.
    1. These are saved as JPGs in the 'original images' folder.
 
 | Original Image | 
