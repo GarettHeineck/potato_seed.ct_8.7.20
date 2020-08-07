@@ -56,3 +56,9 @@
 | Watershed Transformation | 
 |------------|
 ![Watershed Transformation](https://github.com/GarettHeineck/potato_seed.ct_8.7.20/blob/master/S3_foreground_watershed/S3_PA99N2-1__Innovator__4.jpg)
+
+
+## Validation
+| Linear Regression (n=4) | 
+|------------|
+![Watershed Transformation](https://github.com/GarettHeineck/potato_seed.ct_8.7.20/blob/master/results/potato%20seed%20count_01.jpeg)
